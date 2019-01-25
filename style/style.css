@@ -1,0 +1,26 @@
+#photodiv{
+    height:20%;
+    width:20%;
+    border:1px solid black;
+    margin-left:40%;
+    margin-top:30%;
+}
+form{
+    padding: 10px;
+}
+#myfile
+{
+    margin-left:40%;
+}
+.empinfo
+{
+    margin-left:40%;
+}
+.btn 
+{
+ margin-left:20px;
+ 
+}
+#imagenFondo{
+    display: none;
+}
